@@ -1,0 +1,23 @@
+Ticker,Summary,Sentiment,Sentiment Score,URL
+GME,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/news/gamestop-gme-falls-more-steeply-224520779.html
+GME,Your information may be shared with third parties.,NEGATIVE,0.9903545379638672,https://www.google.com/search?q%3Dyahoo%2Bfinance%2BGME%26tbm%3Dnws%26pccc%3D1
+GME,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/news/gamestop-gme-gains-market-dips-224505608.html
+GME,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/news/why-gamestop-gme-stock-down-162604744.html
+GME,Consumer Discretionary sector has returned an average of 11.6% this year.,NEGATIVE,0.8957610726356506,https://finance.yahoo.com/news/consumer-discretionary-stocks-lagging-gamestop-144012488.html
+GME,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/news/gamestop-gme-registers-bigger-fall-214521016.html
+GME,"Video game retailer plans to close hundreds of stores in U.S., Australia.",NEGATIVE,0.9965847730636597,https://finance.yahoo.com/news/why-gamestop-corp-gme-crashed-055747341.html
+GME,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/news/healthy-balance-sheet-won-t-193646025.html
+GME,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/news/heres-why-gamestop-gme-fell-224520124.html
+GME,Video game retailer plans to close down over 100 stores in 2019.,NEGATIVE,0.9987314343452454,https://finance.yahoo.com/news/why-gme-bce-slumping-today-185804276.html
+GME,Video game retailer reported better-than-expected third-quarter results.,POSITIVE,0.8451762795448303,https://finance.yahoo.com/news/why-gamestop-gme-13-8-163011734.html
+TSLA,Your information may be shared with third parties.,NEGATIVE,0.9903545379638672,https://www.google.com/search?q%3Dyahoo%2Bfinance%2BTSLA%26tbm%3Dnws%26pccc%3D1
+TSLA,China’s DeepSeek-R1 model is a ‘breakthrough’ in the industry. Tesla’s self-driving car technology is in early testing,POSITIVE,0.9985999464988708,https://finance.yahoo.com/news/analyst-says-tesla-tsla-facing-165729425.html
+TSLA,"Tech giants Meta Platforms, Apple, Microsoft, Tesla are due to report.",POSITIVE,0.9052256941795349,https://finance.yahoo.com/news/p-futures-slip-meta-microsoft-080635465.html
+TSLA,"Musk is most likely candidate to buy TikTok, says Wedbush. TikTok needs to find an American buyer or face a countrywide ban",NEGATIVE,0.999312162399292,https://finance.yahoo.com/news/tesla-stock-jumps-amid-speculation-musk-could-buy-tiktok-191001660.html
+TSLA,"Tesla stands against other best stocks to buy for high returns. Analysts at J.P. Morgan expect S&P 500 to be around 6,500 in 2025",NEGATIVE,0.9657345414161682,https://finance.yahoo.com/news/tesla-tsla-best-stock-buy-115413754.html
+TSLA,Wall Street expects lower borrowing costs to boost sales. Tesla to unveil lower-priced model in first half of 2025,NEGATIVE,0.9910730719566345,https://uk.finance.yahoo.com/news/tesla-investors-pin-hopes-cheaper-112330018.html
+TSLA,Tesla stands against other stocks on list of 15 stocks. Analysts are expecting continued growth in 2025 amid strong economic data,POSITIVE,0.996052086353302,https://finance.yahoo.com/news/tesla-tsla-among-stocks-chatgpt-221105346.html
+TSLA,"Tesla launches updated version of Model Y in the US and Europe. Older version of Model Y to be phased out, with deliveries beginning in March",NEGATIVE,0.9918538331985474,https://finance.yahoo.com/news/tesla-launches-refreshed-model-y-in-bid-to-boost-sales-in-us-globally-155351707.html
+TSLA,Analysts set Tesla's 2025 price target at $650. Tesla has delivered 101% market returns in one year,POSITIVE,0.9888456463813782,https://finance.yahoo.com/news/tesla-set-strong-2025-550-171702300.html
+TSLA,President Trump revokes predecessor’s pro-EV policy. Tesla has said it wouldn’t take a hit from the rollbacks,NEGATIVE,0.9737886786460876,https://finance.yahoo.com/news/tesla-stock-falls-as-trump-ends-ev-mandate-looks-to-eliminate-subsidies-152217391.html
+TSLA,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/tesla-earnings-kick-off-massive-180000390.html
